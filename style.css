@@ -36,7 +36,8 @@ section {
 
 /* 메인 이미지 (1, 2 공통) */
 .project-image-wrapper img.work1,
-.project-image-wrapper img.work2 {
+.project-image-wrapper img.work2,
+.project-image-wrapper img.work3 {
   width: 70%;
   height: auto;
   display: block;
